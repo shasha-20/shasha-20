@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shasha-20
+- 👋 Hi, I’m Shashwat P
 - 👀 I’m interested in Coding, Robotics and Automations.
 - 🌱 I’m currently learning Automations and Coding.
 - 💞️ I’m looking to collaborate on Nothing.
